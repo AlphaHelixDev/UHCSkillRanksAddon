@@ -1,0 +1,5 @@
+name: SkillRankAddon
+author: AlphaHelix
+version: 1.0
+description: Adds in skill ranks
+main: de.alphahelix.skillranksaddon.SkillRanksAddon
